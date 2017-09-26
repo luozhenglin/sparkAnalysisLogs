@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SparkDemo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SparkDemo_jar</output-path>
+    <root id="archive" name="SparkDemo.jar">
+      <element id="module-output" name="SparkDemo" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/comall/ip17mon/1.0-SNAPSHOT/ip17mon-1.0-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
